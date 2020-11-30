@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606741220 source:c:\users\fernando\desktop\utn\parciales\prog1\recuperatorioparcial\portillo.fernando-rspprogi.1a-\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
